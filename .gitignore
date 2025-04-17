@@ -4,7 +4,7 @@ dist/
 # generated types
 .astro/
 .vscode/
-.prisma/dev.db
+prisma/dev.db
 
 # dependencies
 node_modules/

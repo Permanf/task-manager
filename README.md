@@ -56,8 +56,9 @@ task-manager/
 ```bash
 Task Endpoints
 Method	    Endpoint	        Description
-POST	    /api/tasks	        Create new task
-GET	        /api/tasks	        Get all tasks
-PUT	        /api/tasks/{id}	    Update task
-DELETE	    /api/tasks/{id}	    Delete task
+POST        /api/tasks          Create new task
+GET         /api/tasks          Get all tasks
+PUT         /api/tasks/{id}     Update task
+DELETE      /api/tasks/{id}     Delete task
+
 ```

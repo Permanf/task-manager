@@ -37,6 +37,7 @@ npm run dev
 ```
 
 ## Application Structure
+```bash
 task-manager/
 ├── src/
 │   ├── components/      # Svelte components
@@ -50,11 +51,13 @@ task-manager/
 │   └── schema.prisma   # Database schema
 └── public/             # Static assets
 
-
+```
 ## API Reference
+```bash
 Task Endpoints
 Method	    Endpoint	        Description
 POST	    /api/tasks	        Create new task
 GET	        /api/tasks	        Get all tasks
 PUT	        /api/tasks/{id}	    Update task
 DELETE	    /api/tasks/{id}	    Delete task
+```
